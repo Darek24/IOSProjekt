@@ -36,7 +36,7 @@ class InputNumberController: UIViewController{
         levelLabel.text = receivedLevel
         scoreLabel.text = receivedScore
         highscoreLabel.text = receivedHighscore
-        inputNumberField.text = receivedNumber
+        inputNumberField.text = ""
 
     }
 	
